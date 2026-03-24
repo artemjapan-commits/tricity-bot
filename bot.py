@@ -5,7 +5,7 @@ import time
 
 TOKEN = '8706004572:AAEuwJ49X3Z2rvQqm4hPY-qL-BYcjVazWpQ'
 CHAT_ID = '386933310'
-URL = "https://auctions.yahoo.co.jp/search/search?p=%E3%83%88%E3%83%AA%E3%82%B7%E3%83%86%E3%82%A3&auccat=26318&max=50000&price_type=currentcode&s1=new&o1=d"
+URL = "https://auctions.yahoo.co.jp/search/search?p=%E3%83%88%E3%83%AA%E3%82%B7%E3%83%86%E3%82%A3&auccat=2084062534&max=50000&price_type=currentcode&s1=new&o1=d"
 
 bot = telebot.TeleBot(TOKEN)
 sent_lots = set()
